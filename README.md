@@ -1,10 +1,10 @@
 # TaskFlow-MobileApp
 This project is a part of a hackathon run by https://www.katomaran.com
-## 4. Architecture Diagram
+##  Architecture Diagram
 [Link to Architecture Diagram Image/File]
-## 5. App Demo Video
+##  App Demo Video
 [Loom Video Demo](YOUR_LOOM_LINK_HERE)
-## 3. Assumptions Made
+##  Assumptions Made
 
 Mobile Framework: Flutter has been chosen for cross-platform development.
 Authentication Provider:** Google Sign-In will be implemented for social login.
